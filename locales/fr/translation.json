@@ -1,0 +1,30 @@
+{
+  "app_title": "Titre",
+  "language": "Langue",
+  "welcome_message": "Bienvenue",
+  "days_since_release": "cela fait  {{number_of_days}} des jours que cette vidéo est sortie",
+
+  "login": "Connexion",
+  "signup": "Inscription",
+  "email_verification_title": "Courrier de vérification envoyé à abc####@###.com",
+  "email_verification_message": "Veuillez vérifier votre adresse e-mail pour accéder à des milliers d'offres d'emploi exclusives.",
+  "secondary_action": "Prendre des mesures visant à protéger la population",
+
+  "name": "Nom",
+  "email": "E-mail",
+  "password": "Mot de passe",
+  "confirm_password": "Confirmer le mot de passe",
+  "forgot_password": "Mot de passe oublié?",
+  "new_password": "Nouveau mot de passe",
+  "reset_password": "Réinitialiser mot de passe ?",
+
+  "agree": "En vous inscrivant, vous acceptez les CGU d'Ailaysa",
+  "new_user": "Nouvel utilisateur ?",
+  "remember_me": "Recordarme",
+  "existing_user": "Vous avez déjà un compte? Connexion",
+
+  "copyright": "Droit d’auteur",
+  "terms_and_conditions": "pour connaître les termes et conditions",
+  "website": "Aïlaysa",
+  "year": "2021"
+}

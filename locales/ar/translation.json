@@ -1,0 +1,30 @@
+{
+  "app_title": "العنوان",
+  "language": "Language",
+  "welcome_message": "أهلاً بك",
+  "days_since_release": "لقد كان {{number_of_days}} أيام منذ إصدار هذا الفيديو",
+
+  "login": "تسجيل الدخول",
+  "signup": "التسجيل",
+  "email_verification_title": "تم إرسال بريد التحقق إلى abc####@###.com",
+  "email_verification_message": "يرجى التحقق من عنوان بريدك الإلكتروني للوصول إلى الآلاف من قوائم الوظائف الحصرية.",
+  "secondary_action": "العمل الثانوي",
+
+  "name": "الإسم",
+  "email": "البريد الإلكتروني",
+  "password": "كلمة المرور",
+  "confirm_password": "تأكيد كلمة المرور",
+  "forgot_password": "هل نسيت كلمة المرور؟",
+  "new_password": "كلمة المرور الجديدة",
+  "reset_password": "إعادة تعيين كلمة المرور",
+
+  "agree": "بالتسجيل ، فإنك توافق على الشروط والأحكام الخاصة بـ Ailaysa",
+  "new_user": "مستخدم جديد ؟",
+  "remember_me": "تذكر بياناتي",
+  "existing_user": "هل لديك حساب؟ تسجيل الدخول",
+
+  "copyright": "حقوق التأليف والنشر",
+  "terms_and_conditions": "لمعرفة الشروط والأحكام",
+  "website": "ايلاسا",
+  "year": "2021"
+}
